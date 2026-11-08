@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Index is a technology company focused on providing advanced indexing and search solutions for enterprises. It offers a suite of APIs that enable developers to integrate powerful search capabilities, data ingestion, and analytics into their applications. Backed by Gradient Ventures, Index aims to simplify data discovery and improve information retrieval across large datasets, supporting a range of industries from e‑commerce to finance.
+Index (tryindex.com) is a Gradient Ventures portfolio company. Its website did not answer when it was profiled (a Cloudflare 525 SSL handshake failure on 2026-11-08), so nothing about its products or APIs is recorded here yet.
 
-**Areas:** Company · Search · API · Enterprise · Data
+**Areas:** Company
 
 ## Index on APIs.io
 
